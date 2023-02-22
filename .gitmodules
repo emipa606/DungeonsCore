@@ -1,0 +1,3 @@
+[submodule "Source/EncounterFramework"]
+	path = Source/EncounterFramework
+	url = https://github.com/Taranchuk/EncounterFramework
